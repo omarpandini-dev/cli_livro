@@ -1,0 +1,70 @@
+{
+  "version": "1.1.0",
+
+  "provider": {
+    "id": "UICLAP",
+    "name": "UICLAP",
+    "calculation_mode": "reference_table",
+    "automatic_integration": false
+  },
+
+  "currency": "BRL",
+
+  "rules": {
+    "shipping_included": false,
+    "use_provider_final_price": true,
+    "allow_estimated_price": false,
+    "default_desired_revenue": 70.00
+  },
+
+  "reference_cases": [
+    {
+      "id": "UICLAP_16_PAGES_001",
+      "pages": 16,
+      "desired_revenue": 70.00,
+      "customer_price": 125.02,
+      "shipping_included": false,
+      "status": "verified_test",
+      "notes": "Valor obtido em teste realizado no portal da UICLAP."
+    }
+  ],
+
+  "page_ranges": [
+    {
+      "min_pages": 1,
+      "max_pages": 16,
+      "customer_price": 125.02,
+      "status": "reference"
+    },
+    {
+      "min_pages": 17,
+      "max_pages": 24,
+      "customer_price": null,
+      "status": "pending_test"
+    },
+    {
+      "min_pages": 25,
+      "max_pages": 32,
+      "customer_price": null,
+      "status": "pending_test"
+    },
+    {
+      "min_pages": 33,
+      "max_pages": 40,
+      "customer_price": null,
+      "status": "pending_test"
+    },
+    {
+      "min_pages": 41,
+      "max_pages": 48,
+      "customer_price": null,
+      "status": "pending_test"
+    }
+  ],
+
+  "fallback": {
+    "available": false,
+    "price": null,
+    "message": "Preço do livro físico disponível sob consulta."
+  }
+}

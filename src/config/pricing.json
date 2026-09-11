@@ -1,0 +1,264 @@
+{
+  "version": "1.1.0",
+  "currency": "BRL",
+  "locale": "pt-BR",
+
+  "section": {
+    "eyebrow": "Escolha sua experiência",
+    "title": "Uma história especial do jeito que você preferir",
+    "description": "Escolha como viver essa história: leitura digital interativa, experiência com narração ou livro físico para guardar para sempre.",
+    "experience_notice": "Para uma melhor experiência, recomendamos acessar em tablets ou computadores. No celular, ao abrir a história, use o aparelho sempre no modo paisagem (deitado).",
+    "digital_delivery_notice": "O livro digital será entregue por meio de um link, enviado por e-mail ou WhatsApp. Esse link dará acesso vitalício a uma experiência que simula a leitura de um livro.",
+    "physical_price_disclaimer": "Os valores de livros físicos podem variar conforme a quantidade de páginas, características da impressão e condições de produção. O frete é calculado separadamente."
+  },
+
+  "products": [
+    {
+      "id": "BOOK_DIGITAL",
+      "type": "digital",
+      "name": "Livro Digital",
+      "short_name": "Digital",
+      "description": "Leia a história em nosso leitor digital interativo, com páginas que simulam a experiência de um livro de verdade.",
+      "pricing_type": "fixed",
+      "price": 39.90,
+      "price_prefix": "",
+      "price_suffix": "",
+      "active": true,
+      "featured": false,
+      "sort_order": 1,
+      "badge": null,
+
+      "delivery": {
+        "type": "online",
+        "reader_access": true,
+        "interactive_book": true,
+        "page_turning": true,
+        "audio_narration": false,
+        "physical_book": false
+      },
+
+      "cta": {
+        "label": "Quero meu livro digital",
+        "action": "select_product"
+      },
+
+      "features": [
+        {
+          "id": "PERSONALIZED_STORY",
+          "label": "História personalizada",
+          "included": true
+        },
+        {
+          "id": "CUSTOM_COVER",
+          "label": "Capa personalizada",
+          "included": true
+        },
+        {
+          "id": "ILLUSTRATED_BOOK",
+          "label": "Livro totalmente ilustrado",
+          "included": true
+        },
+        {
+          "id": "INTERACTIVE_READER",
+          "label": "Livro digital interativo",
+          "included": true
+        },
+        {
+          "id": "PAGE_TURNING",
+          "label": "Experiência com virada de páginas",
+          "included": true
+        },
+        {
+          "id": "MULTI_DEVICE",
+          "label": "Acesso pelo celular, tablet ou computador",
+          "included": true
+        },
+        {
+          "id": "AUDIO_NARRATION",
+          "label": "Narração integrada ao livro",
+          "included": false
+        },
+        {
+          "id": "PHYSICAL_BOOK",
+          "label": "Livro impresso",
+          "included": false
+        }
+      ]
+    },
+
+    {
+      "id": "BOOK_DIGITAL_AUDIO",
+      "type": "digital_audio",
+      "name": "Livro Digital + Narração",
+      "short_name": "Digital + Narração",
+      "description": "Acompanhe as páginas do livro em nosso leitor digital enquanto a história é narrada diretamente pelo player.",
+      "pricing_type": "fixed",
+      "price": 59.90,
+      "price_prefix": "",
+      "price_suffix": "",
+      "active": true,
+      "featured": true,
+      "sort_order": 2,
+      "badge": "Mais escolhido",
+
+      "delivery": {
+        "type": "online",
+        "reader_access": true,
+        "interactive_book": true,
+        "page_turning": true,
+        "audio_narration": true,
+        "physical_book": false
+      },
+
+      "cta": {
+        "label": "Quero com narração",
+        "action": "select_product"
+      },
+
+      "features": [
+        {
+          "id": "PERSONALIZED_STORY",
+          "label": "História personalizada",
+          "included": true
+        },
+        {
+          "id": "CUSTOM_COVER",
+          "label": "Capa personalizada",
+          "included": true
+        },
+        {
+          "id": "ILLUSTRATED_BOOK",
+          "label": "Livro totalmente ilustrado",
+          "included": true
+        },
+        {
+          "id": "INTERACTIVE_READER",
+          "label": "Livro digital interativo",
+          "included": true
+        },
+        {
+          "id": "PAGE_TURNING",
+          "label": "Experiência com virada de páginas",
+          "included": true
+        },
+        {
+          "id": "AUDIO_NARRATION",
+          "label": "Narração integrada ao player",
+          "included": true
+        },
+        {
+          "id": "MULTI_DEVICE",
+          "label": "Acesso pelo celular, tablet ou computador",
+          "included": true
+        },
+        {
+          "id": "PHYSICAL_BOOK",
+          "label": "Livro impresso",
+          "included": false
+        }
+      ]
+    },
+
+    {
+      "id": "BOOK_PRINTED",
+      "type": "physical",
+      "name": "Livro Físico",
+      "short_name": "Impresso",
+      "description": "Transforme a história personalizada em um livro físico para guardar, presentear e reler sempre que quiser.",
+      "pricing_type": "calculated",
+      "price": 125.02,
+      "price_prefix": "A partir de",
+      "price_suffix": "",
+      "active": true,
+      "featured": false,
+      "sort_order": 3,
+      "badge": null,
+
+      "delivery": {
+        "type": "shipping",
+        "reader_access": false,
+        "interactive_book": false,
+        "page_turning": false,
+        "audio_narration": false,
+        "physical_book": true
+      },
+
+      "cta": {
+        "label": "Quero meu livro impresso",
+        "action": "select_product"
+      },
+
+      "features": [
+        {
+          "id": "PERSONALIZED_STORY",
+          "label": "História personalizada",
+          "included": true
+        },
+        {
+          "id": "CUSTOM_COVER",
+          "label": "Capa personalizada",
+          "included": true
+        },
+        {
+          "id": "ILLUSTRATED_BOOK",
+          "label": "Livro totalmente ilustrado",
+          "included": true
+        },
+        {
+          "id": "PHYSICAL_BOOK",
+          "label": "Livro físico impresso",
+          "included": true
+        },
+        {
+          "id": "PRINT_PRODUCTION",
+          "label": "Produção e impressão",
+          "included": true
+        },
+        {
+          "id": "INTERACTIVE_READER",
+          "label": "Livro digital interativo",
+          "included": false
+        },
+        {
+          "id": "AUDIO_NARRATION",
+          "label": "Narração integrada ao player",
+          "included": false
+        }
+      ],
+
+      "shipping": {
+        "included": false,
+        "display_message": "Frete calculado separadamente de acordo com o endereço de entrega."
+      },
+
+      "price_notice": "Valor de referência para uma edição de 16 páginas. O preço poderá variar conforme as características do livro."
+    }
+  ],
+
+  "comparison": {
+    "enabled": true,
+    "title": "Compare as opções",
+    "items": [
+      {
+        "id": "PERSONALIZED_STORY",
+        "label": "História personalizada"
+      },
+      {
+        "id": "INTERACTIVE_READER",
+        "label": "Livro digital interativo"
+      },
+      {
+        "id": "PAGE_TURNING",
+        "label": "Virada de páginas"
+      },
+      {
+        "id": "AUDIO_NARRATION",
+        "label": "Narração integrada"
+      },
+      {
+        "id": "PHYSICAL_BOOK",
+        "label": "Livro impresso"
+      }
+    ]
+  }
+}

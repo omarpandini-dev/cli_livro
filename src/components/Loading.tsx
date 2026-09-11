@@ -1,0 +1,2 @@
+export function CatalogSkeleton() { return <div className="skeleton-rail" aria-label="Carregando histórias">{Array.from({ length: 5 }, (_, i) => <div className="skeleton-card" key={i}><span /><i /><b /></div>)}</div>; }
+export function ReaderLoading() { return <main className="reader-loading"><div className="orbit"><span>✦</span></div><h1>Preparando sua aventura...</h1><p>A magia já vai começar.</p></main>; }

@@ -1,0 +1,16 @@
+node_modules
+dist
+dist-server
+coverage
+.git
+.gitignore
+.vscode
+.idea
+.codex
+.agents
+*.log
+.env
+.env.*
+!.env.example
+local_pipeline.py
+README.md

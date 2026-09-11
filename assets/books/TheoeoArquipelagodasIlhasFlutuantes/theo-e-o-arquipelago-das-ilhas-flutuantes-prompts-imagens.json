@@ -1,0 +1,100 @@
+{
+  "title": "Theo e o Arquipélago das Ilhas Flutuantes",
+  "character_prompts": [
+    {
+      "referencia_flow": "@Theo",
+      "nome": "Theo",
+      "prompt": "@Theo, personagem isolado em corpo inteiro: menino de 11 anos, estatura média, pele parda, rosto oval, cabelos castanhos-escuros curtos e encaracolados, olhos castanhos grandes, óculos redondos de armação preta, jaqueta verde-musgo com bolsos, camiseta bege com desenho de bússola, calça azul-escura, botas marrons e mochila de lona mostarda com pequenos mapas presos na lateral. Postura curiosa e inventiva, segurando um caderno de projetos. Animação 3D cinematográfica ultra-realista de longa-metragem familiar, design carismático e expressivo, tecidos e cabelos detalhados, iluminação suave, fundo simples e limpo, corpo inteiro visível, formato quadrado 1:1, sem texto visível."
+    },
+    {
+      "referencia_flow": "@Nimbo",
+      "nome": "Nimbo",
+      "prompt": "@Nimbo, criatura fantástica isolada em corpo inteiro, do tamanho de um gato, corpo coberto por pelos azul-claros e brancos, barriga branca macia, quatro patas curtas, duas grandes orelhas arredondadas, olhos violeta brilhantes, pequenas asas transparentes semelhantes às de uma libélula e cauda longa com ponta em formato de nuvem. Expressão brincalhona, leal e atenta ao vento. Animação 3D cinematográfica ultra-realista de longa-metragem familiar, pelos e asas altamente detalhados, iluminação suave, fundo simples e limpo, corpo inteiro visível, formato quadrado 1:1, sem texto visível."
+    },
+    {
+      "referencia_flow": "@Capita_Iris",
+      "nome": "Capitã Íris",
+      "prompt": "@Capita_Iris, personagem isolada em corpo inteiro: mulher adulta negra, alta e atlética, cabelos pretos cacheados presos em coque alto, olhos castanhos escuros, casaco longo azul-marinho com detalhes dourados, camisa branca, calça vinho, botas pretas até os joelhos, luvas marrons sem dedos e óculos de aviadora dourados sobre a cabeça. Postura confiante, prática, protetora e bem-humorada. Animação 3D cinematográfica ultra-realista de longa-metragem familiar, materiais e tecidos detalhados, iluminação suave, fundo simples, corpo inteiro visível, formato quadrado 1:1, sem texto visível."
+    },
+    {
+      "referencia_flow": "@Professor_Orion",
+      "nome": "Professor Orion",
+      "prompt": "@Professor_Orion, personagem isolado em corpo inteiro: homem idoso de pele clara, baixa estatura, cabelos grisalhos compridos e desalinhados, barba curta branca, olhos azuis, colete marrom cheio de bolsos, camisa verde-clara, calça bege, botas cinza e monóculo mecânico de cobre sobre o olho esquerdo. Expressão gentil, distraída e entusiasmada, segurando um mapa enrolado. Animação 3D cinematográfica ultra-realista de longa-metragem familiar, cabelos, tecidos e metal detalhados, iluminação suave, fundo simples, corpo inteiro visível, formato quadrado 1:1, sem texto visível."
+    },
+    {
+      "referencia_flow": "@Vargo",
+      "nome": "Vargo",
+      "prompt": "@Vargo, personagem isolado em corpo inteiro: homem adulto alto e magro, pele clara, rosto comprido, cabelos pretos com mechas grisalhas presos para trás, olhos verdes, sobretudo cinza-escuro com fivelas de cobre, camisa vinho, calça preta, botas marrons, luvas de couro e óculos de proteção redondos com lentes âmbar pendurados no pescoço. Postura reservada, orgulhosa e solitária, porém não cruel. Animação 3D cinematográfica ultra-realista de longa-metragem familiar, materiais detalhados, iluminação suave, fundo simples, corpo inteiro visível, formato quadrado 1:1, sem texto visível."
+    }
+  ],
+  "scene_prompts": [
+    {
+      "page": 1,
+      "prompt": "No Observatório do Pico Azul, @Theo está na varanda ao lado de seu pequeno planador artesanal, segurando aberta a antiga bússola de bronze cuja agulha aponta verticalmente para uma estrada de vento azulada acima das nuvens. Telescópio de cobre, mapas celestes e cúpula metálica azul ao fundo; expressão de espanto curioso, perspectiva baixa e sensação de chamado para a aventura. Cena em animação 3D cinematográfica ultra-realista, estética de longa-metragem de animação familiar, personagens carismáticos e altamente expressivos, materiais e texturas detalhados, iluminação cinematográfica volumétrica, sombras suaves, profundidade de campo natural, composição sofisticada, renderização 3D de alta qualidade e acabamento profissional. Formato quadrado 1:1. Sem letras, palavras, números, legendas ou marcas visíveis."
+    },
+    {
+      "page": 2,
+      "prompt": "Plano geral de descoberta no Arquipélago das Ilhas Flutuantes: @Theo acaba de pousar num campo verde e observa @Nimbo saindo de trás de uma pedra, com ilhas suspensas, árvores azuladas, cachoeiras no vazio e oceano de nuvens ao fundo. @Nimbo desenha uma espiral brilhante com as asas; uma ilha distante perde altitude. Cena em animação 3D cinematográfica ultra-realista, estética de longa-metragem de animação familiar, personagens carismáticos e altamente expressivos, materiais e texturas detalhados, iluminação cinematográfica volumétrica, sombras suaves, profundidade de campo natural, composição sofisticada, renderização 3D de alta qualidade e acabamento profissional. Formato quadrado 1:1. Sem letras, palavras, números, legendas ou marcas visíveis."
+    },
+    {
+      "page": 3,
+      "prompt": "No movimentado Porto dos Ventos, @Capita_Iris abre um mapa de correntes aéreas sobre um caixote enquanto @Theo aponta uma rota descoberta com sua bússola e @Nimbo observa atento. Embarcação de velas azuis, dirigíveis, plataformas de madeira, hélices de cobre, bandeiras e cataventos cercam o trio; clima de urgência e cooperação. Cena em animação 3D cinematográfica ultra-realista, estética de longa-metragem de animação familiar, personagens carismáticos e altamente expressivos, materiais e texturas detalhados, iluminação cinematográfica volumétrica, sombras suaves, profundidade de campo natural, composição sofisticada, renderização 3D de alta qualidade e acabamento profissional. Formato quadrado 1:1. Sem letras, palavras, números, legendas ou marcas visíveis."
+    },
+    {
+      "page": 4,
+      "prompt": "Dentro do laboratório abarrotado do @Professor_Orion, o pesquisador examina a bússola de @Theo com seu monóculo mecânico enquanto entrega a ele um aro de cobre para guardar os fragmentos. @Nimbo espirra sobre um mapa e espalha papéis; engrenagens, pergaminhos e lentes ocupam o ambiente, com uma ilha descendo visível pela janela. Cena em animação 3D cinematográfica ultra-realista, estética de longa-metragem de animação familiar, personagens carismáticos e altamente expressivos, materiais e texturas detalhados, iluminação cinematográfica volumétrica, sombras suaves, profundidade de campo natural, composição sofisticada, renderização 3D de alta qualidade e acabamento profissional. Formato quadrado 1:1. Sem letras, palavras, números, legendas ou marcas visíveis."
+    },
+    {
+      "page": 5,
+      "prompt": "Cena de ação no Jardim Suspenso de Aeris: @Theo salta entre plataformas floridas flutuantes seguindo a inclinação das flores gigantes, @Nimbo voa à frente e @Capita_Iris segura um cabo de segurança. Ao centro, um coletor de cobre contém o fragmento verde luminoso; pólen dourado, cipós e borboletas iluminadas no ar. Cena em animação 3D cinematográfica ultra-realista, estética de longa-metragem de animação familiar, personagens carismáticos e altamente expressivos, materiais e texturas detalhados, iluminação cinematográfica volumétrica, sombras suaves, profundidade de campo natural, composição sofisticada, renderização 3D de alta qualidade e acabamento profissional. Formato quadrado 1:1. Sem letras, palavras, números, legendas ou marcas visíveis."
+    },
+    {
+      "page": 6,
+      "prompt": "No Rio do Céu, @Theo avança sobre pedras suspensas usando pequenas asas presas à mochila, acompanhado por @Nimbo. Ele lança o aro de cobre em direção ao fragmento azul dentro de um redemoinho de água horizontal; peixes prateados nadam no céu e @Capita_Iris manobra a embarcação ao fundo. Cena em animação 3D cinematográfica ultra-realista, estética de longa-metragem de animação familiar, personagens carismáticos e altamente expressivos, materiais e texturas detalhados, iluminação cinematográfica volumétrica, sombras suaves, profundidade de campo natural, composição sofisticada, renderização 3D de alta qualidade e acabamento profissional. Formato quadrado 1:1. Sem letras, palavras, números, legendas ou marcas visíveis."
+    },
+    {
+      "page": 7,
+      "prompt": "Na Caverna dos Cristais Cantantes, @Theo ajusta quatro hastes de cobre diante de uma caixa de ressonância enquanto @Nimbo move lentamente suas asas para produzir a nota final. Cristais azuis, violetas e verdes refletem os personagens, pequenos lagos transparentes brilham e o fragmento violeta começa a se libertar em luz. Cena em animação 3D cinematográfica ultra-realista, estética de longa-metragem de animação familiar, personagens carismáticos e altamente expressivos, materiais e texturas detalhados, iluminação cinematográfica volumétrica, sombras suaves, profundidade de campo natural, composição sofisticada, renderização 3D de alta qualidade e acabamento profissional. Formato quadrado 1:1. Sem letras, palavras, números, legendas ou marcas visíveis."
+    },
+    {
+      "page": 8,
+      "prompt": "No alto da Torre dos Navegadores inclinada, @Theo ativa antigas engrenagens com o aro de três fragmentos enquanto @Capita_Iris reposiciona as velas do lado de fora e @Nimbo guia uma corrente luminosa pela janela. Escada em espiral desmoronando, mapas nas paredes e coletor vazio apontando energia para nuvens cinzentas. Cena em animação 3D cinematográfica ultra-realista, estética de longa-metragem de animação familiar, personagens carismáticos e altamente expressivos, materiais e texturas detalhados, iluminação cinematográfica volumétrica, sombras suaves, profundidade de campo natural, composição sofisticada, renderização 3D de alta qualidade e acabamento profissional. Formato quadrado 1:1. Sem letras, palavras, números, legendas ou marcas visíveis."
+    },
+    {
+      "page": 9,
+      "prompt": "Plano amplo dentro da Oficina Aérea de Vargo: @Vargo surge entre faíscas diante de uma enorme aeronave incompleta que sustenta uma pequena ilha artificial, com o quarto fragmento dourado brilhando no motor. @Theo exibe o aro com três fragmentos, @Nimbo fica ao seu lado e @Capita_Iris observa cabos se rompendo; tensão sem violência. Cena em animação 3D cinematográfica ultra-realista, estética de longa-metragem de animação familiar, personagens carismáticos e altamente expressivos, materiais e texturas detalhados, iluminação cinematográfica volumétrica, sombras suaves, profundidade de campo natural, composição sofisticada, renderização 3D de alta qualidade e acabamento profissional. Formato quadrado 1:1. Sem letras, palavras, números, legendas ou marcas visíveis."
+    },
+    {
+      "page": 10,
+      "prompt": "Durante a tempestade na oficina inclinada, @Theo estuda o projeto antigo segurado por @Vargo e mostra em seu caderno a ideia de velas articuladas. Ao fundo, @Capita_Iris tenta estabilizar hélices, @Nimbo procura uma corrente de saída e uma ilha habitada desce entre as nuvens pela abertura da plataforma; expressão de escolha moral e urgência. Cena em animação 3D cinematográfica ultra-realista, estética de longa-metragem de animação familiar, personagens carismáticos e altamente expressivos, materiais e texturas detalhados, iluminação cinematográfica volumétrica, sombras suaves, profundidade de campo natural, composição sofisticada, renderização 3D de alta qualidade e acabamento profissional. Formato quadrado 1:1. Sem letras, palavras, números, legendas ou marcas visíveis."
+    },
+    {
+      "page": 11,
+      "prompt": "Cena dinâmica de invenção coletiva: @Theo desenha e ajusta o leme, @Vargo instala engrenagens, @Capita_Iris orienta quatro grandes velas e @Nimbo voa entre cabos detectando rajadas. A aeronave reformada começa a receber energia natural do vento, enquanto o quarto fragmento dourado se desprende do motor em segurança. Cena em animação 3D cinematográfica ultra-realista, estética de longa-metragem de animação familiar, personagens carismáticos e altamente expressivos, materiais e texturas detalhados, iluminação cinematográfica volumétrica, sombras suaves, profundidade de campo natural, composição sofisticada, renderização 3D de alta qualidade e acabamento profissional. Formato quadrado 1:1. Sem letras, palavras, números, legendas ou marcas visíveis."
+    },
+    {
+      "page": 12,
+      "prompt": "A aeronave reformada mergulha sob uma cachoeira suspensa em plena tempestade. @Vargo, preso a uma corda, ajuda @Nimbo a recuperar uma vela solta; @Theo segura o leme e @Capita_Iris aponta a corrente ascendente. Água cintilante cobre o convés e, adiante, surge a Ilha do Coração dos Ventos cercada por luz azul. Cena em animação 3D cinematográfica ultra-realista, estética de longa-metragem de animação familiar, personagens carismáticos e altamente expressivos, materiais e texturas detalhados, iluminação cinematográfica volumétrica, sombras suaves, profundidade de campo natural, composição sofisticada, renderização 3D de alta qualidade e acabamento profissional. Formato quadrado 1:1. Sem letras, palavras, números, legendas ou marcas visíveis."
+    },
+    {
+      "page": 13,
+      "prompt": "No círculo de pedras brancas da Ilha do Coração dos Ventos, @Theo e @Vargo seguram juntos o aro sobre o pedestal rachado, com @Nimbo pousado entre suas mãos e @Capita_Iris firme contra a rajada. Os quatro fragmentos verde, azul, violeta e dourado se unem numa Pedra dos Ventos luminosa, enviando ondas de energia às ilhas. Cena em animação 3D cinematográfica ultra-realista, estética de longa-metragem de animação familiar, personagens carismáticos e altamente expressivos, materiais e texturas detalhados, iluminação cinematográfica volumétrica, sombras suaves, profundidade de campo natural, composição sofisticada, renderização 3D de alta qualidade e acabamento profissional. Formato quadrado 1:1. Sem letras, palavras, números, legendas ou marcas visíveis."
+    },
+    {
+      "page": 14,
+      "prompt": "Celebração no Porto dos Ventos: @Professor_Orion abraça @Theo, @Capita_Iris oferece a @Vargo um lugar entre os construtores e @Nimbo brinca com a fita de uma medalha em forma de catavento. Bandeiras coloridas, sinos de cobre, dirigíveis e ilhas novamente altas criam atmosfera alegre e acolhedora. Cena em animação 3D cinematográfica ultra-realista, estética de longa-metragem de animação familiar, personagens carismáticos e altamente expressivos, materiais e texturas detalhados, iluminação cinematográfica volumétrica, sombras suaves, profundidade de campo natural, composição sofisticada, renderização 3D de alta qualidade e acabamento profissional. Formato quadrado 1:1. Sem letras, palavras, números, legendas ou marcas visíveis."
+    },
+    {
+      "page": 15,
+      "prompt": "Ao anoitecer na varanda do Observatório do Pico Azul, @Theo abre seu caderno com o mapa completo das ilhas, enquanto @Nimbo esconde o corpo na mochila e mostra apenas as orelhas. A bússola de bronze repousa sobre a mesa com a agulha discretamente inclinada para uma estrela distante; céu profundo, telescópio e sensação de nova aventura. Cena em animação 3D cinematográfica ultra-realista, estética de longa-metragem de animação familiar, personagens carismáticos e altamente expressivos, materiais e texturas detalhados, iluminação cinematográfica volumétrica, sombras suaves, profundidade de campo natural, composição sofisticada, renderização 3D de alta qualidade e acabamento profissional. Formato quadrado 1:1. Sem letras, palavras, números, legendas ou marcas visíveis."
+    }
+  ],
+  "cover_prompt": {
+    "with_title": {
+      "prompt": "Capa quadrada de livro infantil de aventura. @Theo em primeiro plano segura uma bússola de bronze luminosa e um caderno de mapas, com @Nimbo voando ao lado. Ao fundo, o Arquipélago das Ilhas Flutuantes surge acima de um oceano de nuvens, com campos verdes, árvores azuladas, cachoeiras no vazio, pontes de corda e uma pequena aeronave de velas azuis. Composição heroica, acolhedora e misteriosa, sem revelar o clímax. Animação 3D cinematográfica ultra-realista de longa-metragem familiar, personagens expressivos, materiais detalhados, iluminação dourada volumétrica, profundidade de campo e acabamento profissional. Formato quadrado 1:1. Exibir somente o título exato “Theo e o Arquipélago das Ilhas Flutuantes”, com ortografia e acentos corretos, em tipografia infantil elegante e muito legível. Não incluir autor, subtítulo, marca, número nem qualquer outro texto."
+    },
+    "image_only": {
+      "prompt": "Capa quadrada de livro infantil de aventura. @Theo em primeiro plano segura uma bússola de bronze luminosa e um caderno de mapas, com @Nimbo voando ao lado. Ao fundo, o Arquipélago das Ilhas Flutuantes surge acima de um oceano de nuvens, com campos verdes, árvores azuladas, cachoeiras no vazio, pontes de corda e uma pequena aeronave de velas azuis. Composição heroica, acolhedora e misteriosa, sem revelar o clímax. Animação 3D cinematográfica ultra-realista de longa-metragem familiar, personagens expressivos, materiais detalhados, iluminação dourada volumétrica, profundidade de campo e acabamento profissional. Formato quadrado 1:1. Não exibir letras, palavras, título, números, marcas nem qualquer texto visível."
+    }
+  }
+}
