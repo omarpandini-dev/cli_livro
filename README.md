@@ -1,5 +1,10 @@
 # Mundo Encantado
 
+Exemplo de acesso:
+
+https://appcli.mundoencantado.cloud/read/book/nomePasta
+https://appcli.mundoencantado.cloud/read/comic/nomePasta
+
 Biblioteca digital infantil para livros e histórias em quadrinhos. O acervo é descoberto automaticamente nas pastas locais, sem banco de dados e sem cadastro manual. O leitor usa diretamente a biblioteca StPageFlip (`page-flip`) para reproduzir folhas flexíveis e páginas duplas.
 
 ## Instalação
