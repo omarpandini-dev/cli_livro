@@ -2,15 +2,19 @@
 
 Exemplo de acesso:
 
-https://appcli.mundoencantado.cloud/read/book/nomePasta
-https://appcli.mundoencantado.cloud/read/comic/nomePasta
+https://appcli.mundoencantado.cloud/read/book/NicoeoRiodeCristalqueParoudeCantar
+https://appcli.mundoencantado.cloud/read/comic/luiza_e_o_mapa_do_ceu_escondido_parte_2
+
+http://localhost:5173/read/book/NicoeoRiodeCristalqueParoudeCantar
+http://localhost:5173/read/comic/luiza_e_o_mapa_do_ceu_escondido_parte_2
 
 Biblioteca digital infantil para livros e histórias em quadrinhos. O acervo é descoberto automaticamente nas pastas locais, sem banco de dados e sem cadastro manual. O leitor usa diretamente a biblioteca StPageFlip (`page-flip`) para reproduzir folhas flexíveis e páginas duplas.
 
 ## Instalação
 
 ```bash
-npm install
+npm.cmd install
+npm.cmd run dev
 ```
 
 ## Desenvolvimento
